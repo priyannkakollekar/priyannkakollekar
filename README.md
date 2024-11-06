@@ -8,7 +8,7 @@ I'm a passionate **Data Analyst** with skills in **SQL, Power BI, Python, and Ex
 - 🌱 Currently improving my skills in **data visualization** and **machine learning**.
 - 💼 Working on projects in **real estate, e-commerce analytics, and sales optimization**.
 - 🎯 Goal: To leverage data to solve real-world problems and make impactful decisions.
-- 📫 Reach me at: priyannkakollekar@gmail.com or connect on [LinkedIn][(Your LinkedIn URL)](https://www.linkedin.com/in/priyannka-kollekar/).
+- 📫 Reach me at: priyannkakollekar@gmail.com or connect on [LinkedIn][(https://www.linkedin.com/in/priyannka-kollekar/](https://www.linkedin.com/in/priyannka-kollekar/).
 
 ---
 
@@ -20,16 +20,13 @@ I'm a passionate **Data Analyst** with skills in **SQL, Power BI, Python, and Ex
 ---
 
 ### 🔹 Featured Projects
-- **[Data Analysis Project on Zomato Data](link-to-project)**: Insights on customer behavior and top-selling products.
-- **[Sales Dashboard](link-to-project)**: Power BI dashboard to track sales KPIs.
-- **[SQL Data Exploration](link-to-project)**: SQL project analyzing Indian Election results.
+- **[Data Analysis Project on 360BI](https://github.com/priyannkakollekar/POWER-BI-Projects/tree/main/360BI_Sales_Analytics)**: implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions.
+- **[Sales Dashboard](https://github.com/priyannkakollekar/POWER-BI-Projects/tree/main/Atliq-Sales-Insights)**: Power BI dashboard to track sales KPIs.
+- **[Target SQL Data Exploration](https://github.com/priyannkakollekar/SQL-Projects/tree/main/Target_Analysis)**: SQL project analyzing Target Business.
+- **[Netflix Python Data Exploration](https://github.com/priyannkakollekar/Python-Projects/tree/main/Netflix_DA)**: analyzing Netflix's content catalog.
 
----
-
-### 🔹 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ---
 
 ### 🔹 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](Your LinkedIn URL) [![Email](https://img.shields.io/badge/Email-Send-blue)](mailto:YourEmail)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/priyannka-kollekar/) [![Email](https://img.shields.io/badge/Email-Send-blue)](mailto:priyannkakollekar@gmail.com)
